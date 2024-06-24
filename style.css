@@ -1,0 +1,16 @@
+body{
+    margin: 0px;
+    display: flex;
+   flex-direction: column;
+   align-items: center;
+ 
+}
+
+#travelForm {
+    display: flex;
+    flex-direction: column;
+    padding: 60px;
+    border: 20px solid;
+    border-radius: 50%;
+    
+}
